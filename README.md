@@ -31,8 +31,13 @@
 
 ## 📝 기술 스택
 
-> 1. HTML
-> 2. CSS
+> 1. Python
+> 2. R
+> 3. Excel
+> 4. SQL
+> 5. Tableau
+> 6. Power BI
+> 7. Google Analytics
 
 ​           
 
